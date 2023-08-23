@@ -33,7 +33,7 @@ const SideBar =()=>(
             </a>
             <a target="_blank" 
             rel="noreferrer" 
-            href="https://www.linkedin.com/in/sagar-yadav-9555a3256/">
+            href="https://github.com/sagaryd03">
             <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
             </a>
             
